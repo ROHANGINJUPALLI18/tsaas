@@ -22,7 +22,7 @@ Step by step Required  External api’s flow :- (we need to take api’s so, tha
 
 
 
-Phase 1 — Account & API access
+Phase 1 — Account & API access(new api seervice to be choosen)
 Do this first, takes ~30 min
 
 1.1Sign up at planet.complanet.com/login▼
